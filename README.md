@@ -61,11 +61,11 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 
 ## `SETTINGS`
 
-- CHANGE OWNER NUMBER VCARD [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L58)
-- CHANGE OWNER NUMBER MENU [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L65)
-- CHANGE OWNER NUMBER TAG [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L66)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L59)
-- CHANGE BOT NAME [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L67)
+- CHANGE OWNER NUMBER VCARD [Here](https://github.com/Anatasepe/apapun/blob/master/settings.js#L58)
+- CHANGE OWNER NUMBER MENU [Here](https://github.com/Anatasepe/apapun/blob/master/settings.js#L65)
+- CHANGE OWNER NUMBER TAG [Here](https://github.com/Anatasepe/apapun/blob/master/settings.js#L66)
+- CHANGE OWNER NAME [Here](https://github.com/Anatasepe/apapun/blob/master/settings.js#L59)
+- CHANGE BOT NAME [Here](https://github.com/Anatasepe/apapun/blob/master/settings.js#L67)
 
 ## ` BUILDPACKS`
 
@@ -74,7 +74,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD4/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anatasepe/apapun/)
 
 # Install Manually 👇
 ## `Requirements`
